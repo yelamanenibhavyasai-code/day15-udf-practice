@@ -1,0 +1,11 @@
+TransactionID,CustomerID,TransactionAmount,TransactionType
+T001,C001,5000,Purchase
+T002,C002,15000,Purchase
+T003,C003,2500,Refund
+T004,C004,45000,Purchase
+T005,C005,8000,Purchase
+T006,C006,120000,Purchase
+T007,C007,3000,Refund
+T008,C008,75000,Purchase
+T009,C009,18000,Purchase
+T010,C010,2000,Purchase

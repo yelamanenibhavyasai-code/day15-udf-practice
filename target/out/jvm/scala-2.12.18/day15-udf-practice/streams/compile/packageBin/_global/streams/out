@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bhavya/day15-udf-practice/target/out/jvm/scala-2.12.18/day15-udf-practice/day15-udf-practice_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerRiskAnalyzer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day15-udf-practice/target/out/jvm/scala-2.12.18/day15-udf-practice/classes/CustomerRiskAnalyzer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerRiskAnalyzer$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day15-udf-practice/target/out/jvm/scala-2.12.18/day15-udf-practice/classes/CustomerRiskAnalyzer$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerRiskAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day15-udf-practice/target/out/jvm/scala-2.12.18/day15-udf-practice/classes/CustomerRiskAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerRiskAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day15-udf-practice/target/out/jvm/scala-2.12.18/day15-udf-practice/classes/CustomerRiskAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day15-udf-practice/day15-udf-practice_2.12-0.1.0-SNAPSHOT.jar[0m
